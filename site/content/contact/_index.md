@@ -1,11 +1,15 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: I'm based in Oxford, UK which is a temperate maritime climate roughly
+      equivalent to USDA 8b/9a for winter temperatures. Please bear that in mind
+      if you think I'm planting out too early or too late.
+  - heading: Office hours
+    text: This isn't my full time job. I'll try to reply to any emails within 2-3
+      days but it may take up to too weeks if I'm travelling. If you're anxious
+      for a quicker response try to get my attention on Twitter/X.
 ---
 
 We’d love to get in touch with you and hear your ideas and
