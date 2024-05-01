@@ -4,7 +4,7 @@ logo: /img/logo.svg
 contact_entries:
   - heading: Location
     text: I'm based in Oxford, UK which is a temperate maritime climate roughly
-      equivalent to USDA 8b/9a for winter temperatures. Please bear that in mind
+      equivalent to USDA 8b for winter temperatures. Please bear that in mind
       if you think I'm planting out too early or too late.
   - heading: Office hours
     text: This isn't my full time job. I'll try to reply to any emails within 2-3
