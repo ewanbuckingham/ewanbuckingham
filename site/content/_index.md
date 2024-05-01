@@ -3,9 +3,14 @@ title: Growing a greener world
 subtitle: The art and science or organic gardening
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Growing greener better
-  text: Large or small your garden is your opportunity to create something
-    productive, beautiful and beneficial for nature. But how?
+  heading: " Hello!"
+  text: >-
+    This is Ewan's organic gardening site. Large or small gardens are our
+    opportunity to create something productive, beautiful and beneficial to
+    nature. But how?
+
+
+    We unpack the folklore, facts and anecdotes to understand what works, how it does it, and how it might be applied to different situations. 
 intro:
   heading: What we offer
   text: ...
