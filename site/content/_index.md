@@ -15,17 +15,9 @@ intro:
   heading: What we cover
   text: >-
     If it's used in organic gardening then we're interested in it! Some areas
-    we're actively looking at include:
+    we're actively looking at include: companion planting, crop rotation,
+    compost making, sustainability (especially ghost acreage) and seed saving. 
 
-    - Companion planting
-
-    - Crop rotation
-
-    - Compost making
-
-    - Sustainability (especially ghost acreage)
-
-    - Seed saving
 
     We don't talk much about pesticides, herbicides and the impact that they have. We'd rather make the positive case for an organic -  sustainable approach - but we do touch on it from time to time when it's unavoidable, such as when discussing seed coatings on cover crops.
 products:
