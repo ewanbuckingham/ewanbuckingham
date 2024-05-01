@@ -17,7 +17,6 @@ intro:
     If it's used in organic gardening then we're interested in it! Some areas
     we're actively looking at include:
 
-
     - Companion planting
 
     - Crop rotation
@@ -27,7 +26,6 @@ intro:
     - Sustainability (especially ghost acreage)
 
     - Seed saving
-
 
     We don't talk much about pesticides, herbicides and the impact that they have. We'd rather make the positive case for an organic -  sustainable approach - but we do touch on it from time to time when it's unavoidable, such as when discussing seed coatings on cover crops.
 products:
