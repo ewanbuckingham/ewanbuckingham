@@ -16,7 +16,7 @@ describe("empty spec", () => {
   it("navigates to the values page", () => {
     cy.get('a[href="/values"]').eq(0).click();
     cy.url().should("include", "/values");
-    cy.get("h1").contains(/Values/i);
+    cy.get("h1").contains(/Value/i);
   });
 
   it("navigates to the blog page", () => {
