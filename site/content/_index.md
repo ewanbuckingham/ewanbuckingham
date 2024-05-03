@@ -5,12 +5,12 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: " Hello!"
   text: >-
-    This is Ewan's organic gardening site. Large or small gardens are our
+    This is Ewan's *organic gardening* site. Large or small gardens are our
     opportunity to create something productive, beautiful and beneficial to
     nature. But how?
 
 
-    We unpack the folklore, facts and anecdotes to understand what works, how it does it, and how it might be applied to different situations. 
+    We unpack the folklore, facts and anecdotes to understand what works, how it does it, and how it might be applied to different situations.
   body: "**This** is the new *markdown* option...."
 intro:
   heading: What we cover
