@@ -11,6 +11,7 @@ blurb:
 
 
     We unpack the folklore, facts and anecdotes to understand what works, how it does it, and how it might be applied to different situations. 
+  body: This is the new markdown option.
 intro:
   heading: What we cover
   text: >-
